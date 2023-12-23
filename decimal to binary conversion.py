@@ -8,6 +8,6 @@ def decimal_to_binary(n):
   return "".join(str(i) for i in binary)
 
 
-print(decimal_to_binary(79))  # 1010
-print(decimal_to_binary(46))  # 1100
-print(decimal_to_binary(22))  # 10000
+print(decimal_to_binary(10))  # 1010
+print(decimal_to_binary(52))  # 110100
+print(decimal_to_binary(74))  # 1001010
